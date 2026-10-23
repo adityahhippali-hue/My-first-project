@@ -4,3 +4,4 @@ public class HelloWorld {
    }
 }
 Hello india
+public static void main(string[]args)
